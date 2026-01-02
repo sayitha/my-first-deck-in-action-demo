@@ -17,7 +17,7 @@ plugins:
     error_message: API rate limit exceeded
     fault_tolerant: true
     header_name: null
-    hide_client_headers: true
+    hide_client_headers: false
     hour: null
     limit_by: consumer
     minute: null
